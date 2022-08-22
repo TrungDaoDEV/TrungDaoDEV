@@ -3,9 +3,9 @@
     "description":"theo doi tinh trang cac may dang hoat dong",
     "may":
     [
-        {"id":"D1-1","tinhtrang":"0","SL":"20","Time":"24-8-22.12-20-00"},
-        {"id":"D1-2","tinhtrang":"1","SL":"44","Time":"04-2-22.9-33-00"},
-        {"id":"D1-3","tinhtrang":"1","SL":"88","Time":"12-7-22.6-16-00"},
-        {"id":"D1-4","tinhtrang":"0","SL":"108","Time":"30-9-22.11-39-00"}
+        {"id":"D101","tinhtrang":"0","SL":"20","Time":"24-8-22.12-20-00"},
+        {"id":"D102","tinhtrang":"1","SL":"44","Time":"04-2-22.9-33-00"},
+        {"id":"D103","tinhtrang":"1","SL":"88","Time":"12-7-22.6-16-00"},
+        {"id":"D104","tinhtrang":"0","SL":"108","Time":"30-9-22.11-39-00"}
     ]
 }
