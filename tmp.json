@@ -1,0 +1,11 @@
+{
+    "title":"Tinh trang may",
+    "description":"theo doi tinh trang cac may dang hoat dong",
+    "may":
+    [
+        {"id":"D1_1","tinhtrang":"0","SL":"25","Time":"24-8-22.9-20-00"},
+        {"id":"D1_1","tinhtrang":"0","SL":"25","Time":"24-8-22.9-20-00"},
+        {"id":"D1_1","tinhtrang":"0","SL":"25","Time":"24-8-22.9-20-00"},
+        {"id":"D1_1","tinhtrang":"0","SL":"25","Time":"24-8-22.9-20-00"}
+    ]
+}
